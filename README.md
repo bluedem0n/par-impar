@@ -2,7 +2,7 @@
 
 1. Inicio
 2. Leer numero
-3. n>0
+3. ¿n>0?
 
 	3.1 Si n es positivo
 	
